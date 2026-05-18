@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px"></p>
 <h1 align="center">Hi 👋, I'm Keshani Nuwanthika</h1>
 <h3 align="center">Passionate Information Systems Student | Undergraduate at UCSC</h3>
 <h4 align="center"> Still More to Learn...</h4>
@@ -13,7 +12,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="Screenshot 2026-04-24 221956.png">
+  <img align="center" alt="Coding" width="450" src=" ">
 </td>
 </tr>
 </table>
